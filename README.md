@@ -78,7 +78,7 @@ All problems are solved using clean and simple logic, making this repository ide
 
 ## 📌 Author
 
-Mahesh Kumar
+-- GHANGHAS MAHESH
 
 ---
 
