@@ -1,6 +1,6 @@
-🐍 Python IF & List Exercises (Jupyter Notebook)
+## 🐍 Python IF & List Exercises (Jupyter Notebook)
 
-📌 Overview
+## 📌 Overview
 
 This repository contains a collection of beginner-friendly Python exercises focused on:
 
@@ -12,7 +12,7 @@ All problems are solved using clean and simple logic, making this repository ide
 
 ---
 
-📚 Topics Covered
+## 📚 Topics Covered
 
 🔹 IF Statement Exercises
 
@@ -28,21 +28,21 @@ All problems are solved using clean and simple logic, making this repository ide
 
 ---
 
-🔹 List & Function Exercises
+## 🔹 List & Function Exercises
 
 - Remove n Smallest and n Largest Values from a List
 - Extract Words from a String (Punctuation Handling)
 
 ---
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - Python 3
 - Jupyter Notebook
 
 ---
 
-🚀 How to Run
+## 🚀 How to Run
 
 1. Install Jupyter Notebook:
    
@@ -58,16 +58,16 @@ All problems are solved using clean and simple logic, making this repository ide
 
 ---
 
-📂 File Structure
+## 📂 File Structure
 
-📁 project-folder
+ 📁 project-folder
  ┣ 📄 if_statement_exercises.ipynb
  ┣ 📄 list_exercises.ipynb
  ┗ 📄 README.md
 
 ---
 
-🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 
 - Understanding conditional statements ("if", "elif", "else")
 - Working with lists and functions
@@ -76,13 +76,13 @@ All problems are solved using clean and simple logic, making this repository ide
 
 ---
 
-📌 Author
+## 📌 Author
 
 Mahesh Kumar
 
 ---
 
-⭐ Note
+## ⭐ Note
 
 This project is created for practice and learning purposes. It can be used as a reference for beginners starting with Python.
 
